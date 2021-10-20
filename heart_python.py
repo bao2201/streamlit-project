@@ -1,4 +1,7 @@
 import turtle
+import tkinter
+import streamlit as st
+st.title('Chúc mừng 20/10')
 pen = turtle.Turtle()
 pen.speed(0)
 pen.hideturtle()
@@ -30,4 +33,3 @@ def txt():
 heart()
 txt()
 turtle.done()
-
