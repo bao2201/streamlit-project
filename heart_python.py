@@ -1,5 +1,5 @@
 import turtle
-import tkinter
+import tkinter as TK
 import streamlit as st
 st.title('Chúc mừng 20/10')
 pen = turtle.Turtle()
